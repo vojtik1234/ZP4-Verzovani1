@@ -16,6 +16,8 @@ namespace Verzovani
 				Console.WriteLine("cislo: " + (i+1));
 			}
 			
+			int a = 10;
+			
 			Console.ReadKey(true);
 		}
 	}
