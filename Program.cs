@@ -18,6 +18,8 @@ namespace Verzovani
 			
 			int a = 10;
 			
+			Console.WriteLine("FUNGUJEEE");
+
 			Console.ReadKey(true);
 		}
 	}
