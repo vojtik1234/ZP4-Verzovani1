@@ -12,7 +12,9 @@ namespace Verzovani
 		{
 			Console.WriteLine("Testik c. 11");
 			
-			
+			for (int i = 0; i < 10; i++) {
+				Console.WriteLine("cislo: " + (i+1));
+			}
 			
 			Console.ReadKey(true);
 		}

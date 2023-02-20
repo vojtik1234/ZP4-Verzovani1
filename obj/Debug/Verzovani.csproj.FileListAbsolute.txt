@@ -1,0 +1,5 @@
+C:\Users\Vojta\Documents\SharpDevelop Projects\Verzovani\Verzovani\bin\Debug\Verzovani.exe
+C:\Users\Vojta\Documents\SharpDevelop Projects\Verzovani\Verzovani\bin\Debug\Verzovani.pdb
+C:\Users\Vojta\Documents\SharpDevelop Projects\Verzovani\Verzovani\obj\Debug\Verzovani.csprojResolveAssemblyReference.cache
+C:\Users\Vojta\Documents\SharpDevelop Projects\Verzovani\Verzovani\obj\Debug\Verzovani.exe
+C:\Users\Vojta\Documents\SharpDevelop Projects\Verzovani\Verzovani\obj\Debug\Verzovani.pdb
